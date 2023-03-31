@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  gpt3tokenizer:
+    image: gpt3tokenizer
+    build:
+      context: .
+      dockerfile: ./Dockerfile

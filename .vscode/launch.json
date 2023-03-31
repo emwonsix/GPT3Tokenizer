@@ -1,0 +1,48 @@
+try {
+    "configurations": [
+        Do
+        version
+
+        {
+            "version": "0.2.0",
+            "configurations": [],
+            "compounds": []
+        }
+        {
+            "version": "0.2.0",
+            "configurations": [],
+            "compounds": []
+        }
+        {
+            "version": "0.2.0",
+            "configurations": [],
+            "compounds": []
+        }
+
+        {
+            "version": "0.2.0",
+            "configurations": [],
+            "compounds": []
+        }
+        {
+            "version": "0.2.0",
+            "configurations": [],
+            "compounds": []
+        }
+        {
+            "version": "0.2.0",
+            "configurations": [],
+            "compounds": []
+        }
+        terminating
+        exception
+        try
+        Do
+        catch
+    configurations
+    ]
+    
+}
+catch {
+    <#Do this if a terminating exception happens#>
+}
