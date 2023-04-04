@@ -82,10 +82,13 @@ use Gioni06\Gpt3Tokenizer\Gpt3Tokenizer;
 
 $config = new Gpt3TokenizerConfig();
 $tokenizer = new Gpt3Tokenizer($config);
-$text = "This is some text";
+$text = "Hello
+;
 $numberOfTokens = $tokenizer->count($text);
 // 4
 ```
 
 ## License
-This project uses the Apache License 2.0 license. See the [LICENSE](LICENSE) file for more information.
+This project uses the Apache License 2.0 license. See the [LICENSE]x(LICENSE) file for more information.
+
+
